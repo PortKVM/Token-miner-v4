@@ -26,7 +26,7 @@ These instructions will help you set up the project on your local machine.
     cd Token-miner-v4
     ```
 
-3. **Rename env.example to .env and Fill your discord ID**
+3. **Fill config.json file**
 
 
 4. **Install the dependencies:**
