@@ -18,14 +18,16 @@ These instructions will help you set up the project on your local machine.
     git clone https://github.com/PortKVM/Token-miner-v4
     ```
 
-2. **Rename env.example to .env and Fill your discord ID**
 
 
-3. **Navigate to the project directory:**
+2. **Navigate to the project directory:**
 
     ```bash
     cd Token-miner-v4
     ```
+
+3. **Rename env.example to .env and Fill your discord ID**
+
 
 4. **Install the dependencies:**
 
