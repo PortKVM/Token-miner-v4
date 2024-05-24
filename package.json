@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "eazyminer": "^0.1.9",
+    "os": "^0.1.2"
+  }
+}
